@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rashi78
 - 👀 I’m interested in music, singing, and achieving great things!
-- 🌱 I’m currently learning devops infrastructure CICD deployment with Google CLoud 
+- 🌱 I’m currently learning devops infrastructure CICD deployment with Google Cloud 
 - 💞️ I’m looking to collaborate on GCP related stuff. Let's collaborate and make apps on GCP platform with python.
 - 📫 How to reach me - kashyapr78@gmail.com
 
